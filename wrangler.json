@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "odd-shape-e423",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ab5849ab-7990-4698-850d-fb4d342d1125",
+      "database_name": "dawn-credit-0755-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
